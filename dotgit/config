@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = endless.pancake4u@gmail.com
+	name = endless.pancake
+[remote "origin"]
+	url = https://github.com/EndlessPancake/fluent-plugin-redis-streams.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
